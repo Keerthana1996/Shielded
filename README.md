@@ -3,4 +3,4 @@ Our proposed system called Shielded is a real-time, quick responding, reliable d
 
     - github repository for the shielded android app: https://github.com/Ishmita/Shielded
     - to download the documentation and user manual visit: shielded.6te.net
-    - view demo video here: https://youtu.be/Ke0_P9BZkR4
+    - view demo video here: https://www.youtube.com/watch?v=gqgaUBavlGc&feature=youtu.be
